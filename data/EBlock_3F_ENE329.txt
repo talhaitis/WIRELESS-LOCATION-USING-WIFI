@@ -1,0 +1,293 @@
+12:48:31.896 -> WiFly Hello World
+12:48:32.294 -> 
+IP Address is get ip a192.168.1.1
+12:48:32.824 -> 
+Scan Requested 
+12:48:32.858 -> can
+
+12:48:32.858 -> <4.41> 
+
+12:48:35.445 -> SCAN:Found 9
+12:48:35.479 -> 01,01,-50,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:48:35.545 -> 02,01,-49,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:48:35.611 -> 03,01,-49,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:48:35.644 -> 04,01,-58,00,2100,00,00,00:06:66:9c:53:09,WiFly-EZX-09
+12:48:35.711 -> 05,11,-81,00,2104,00,00,f4:2e:7f:4f:28:20,airuc-guest
+12:48:35.777 -> 06,11,-82,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:48:35.843 -> 07,11,-83,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:48:35.910 -> 08,11,-83,08,3104,28,00,f4:2e:7f:4f:28:21,airuc-secure
+12:48:35.976 -> 09,11,-83,08,3104,28,00,f4:2e:7f:4f:28:22,eduroam
+12:48:36.009 -> END:9 Channels
+12:48:36.042 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -50,"signalToNoiseRatio": 0}
+12:48:36.142 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -49,"signalToNoiseRatio": 0}
+12:48:36.208 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -49,"signalToNoiseRatio": 0}
+12:48:36.308 -> 37 {"macAddress": "00:06:66:9c:53:09","signalStrength": -58,"signalToNoiseRatio": 0}
+12:48:36.407 -> 46 {"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -81,"signalToNoiseRatio": 0}
+12:48:36.474 -> 55 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -82,"signalToNoiseRatio": 0}
+12:48:36.573 -> 64 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -83,"signalToNoiseRatio": 0}
+12:48:36.673 -> 73 {"macAddress": "f4:2e:7f:4f:28:21","signalStrength": -83,"signalToNoiseRatio": 0}
+12:48:36.773 -> 82 {"macAddress": "f4:2e:7f:4f:28:22","signalStrength": -83,"signalToNoiseRatio": 0}
+12:48:36.839 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -50,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "00:06:66:9c:53:09","signalStrength": -58,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -81,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -82,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -83,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:21","signalStrength": -83,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:22","signalStrength": -83,"signalToNoiseRatio": 0}]}
+12:48:37.668 -> We should be done now 
+12:48:39.492 -> WiFly Hello World
+12:48:39.891 -> 
+IP Address is get ip a192.168.1.1
+12:48:40.421 -> 
+Scan Requested 
+12:48:40.455 -> can
+
+12:48:40.455 -> <4.41> 
+
+12:48:43.041 -> SCAN:Found 12
+12:48:43.074 -> 01,01,-54,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:48:43.141 -> 02,01,-51,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:48:43.207 -> 03,01,-52,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:48:43.240 -> 04,01,-86,00,2104,00,00,84:d4:7e:ef:3b:80,airuc-guest
+12:48:43.307 -> 05,01,-76,00,2100,00,00,00:06:66:9c:53:09,WiFly-EZX-09
+12:48:43.373 -> 06,11,-80,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:48:43.439 -> 07,11,-80,08,3104,28,00,f4:2e:7f:4f:77:c1,airuc-secure
+12:48:43.506 -> 08,11,-80,08,3104,28,00,f4:2e:7f:4f:77:c2,eduroam
+12:48:43.572 -> 09,11,-87,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:48:43.639 -> 10,11,-81,00,2104,00,00,f4:2e:7f:4f:39:20,airuc-guest
+12:48:43.672 -> 11,11,-82,08,3104,28,00,f4:2e:7f:4f:39:21,airuc-secure
+12:48:43.738 -> 12,11,-86,00,2104,00,00,f4:2e:7f:4f:28:20,airuc-guest
+12:48:43.804 -> END:12 Channels
+12:48:43.838 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -54,"signalToNoiseRatio": 0}
+12:48:43.937 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -51,"signalToNoiseRatio": 0}
+12:48:44.004 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -52,"signalToNoiseRatio": 0}
+12:48:44.103 -> 37 {"macAddress": "84:d4:7e:ef:3b:80","signalStrength": -86,"signalToNoiseRatio": 0}
+12:48:44.170 -> 46 {"macAddress": "00:06:66:9c:53:09","signalStrength": -76,"signalToNoiseRatio": 0}
+12:48:44.269 -> 55 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -80,"signalToNoiseRatio": 0}
+12:48:44.369 -> 64 {"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -80,"signalToNoiseRatio": 0}
+12:48:44.468 -> 73 {"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -80,"signalToNoiseRatio": 0}
+12:48:44.535 -> 82 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -87,"signalToNoiseRatio": 0}
+12:48:44.634 -> 91 {"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -81,"signalToNoiseRatio": 0}
+12:48:44.734 -> 100 {"macAddress": "f4:2e:7f:4f:39:21","signalStrength": -82,"signalToNoiseRatio": 0}
+12:48:44.800 -> 109 {"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0}
+12:48:44.900 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -51,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -52,"signalToNoiseRatio": 0},{"macAddress": "84:d4:7e:ef:3b:80","signalStrength": -86,"signalToNoiseRatio": 0},{"macAddress": "00:06:66:9c:53:09","signalStrength": -76,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -87,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -81,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:21","signalStrength": -82,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0}]}
+12:48:45.962 -> We should be done now 
+12:48:47.787 -> WiFly Hello World
+12:48:48.218 -> 
+IP Address is get ip a192.168.1.1
+12:48:48.716 -> 
+Scan Requested 
+12:48:48.750 -> can
+
+12:48:48.750 -> <4.41> 
+
+12:48:51.338 -> SCAN:Found 8
+12:48:51.372 -> 01,01,-56,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:48:51.438 -> 02,01,-54,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:48:51.504 -> 03,01,-56,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:48:51.538 -> 04,06,-85,00,2104,00,00,f4:2e:7f:4f:d8:80,airuc-guest
+12:48:51.604 -> 05,11,-84,00,2104,00,00,f4:2e:7f:4f:28:20,airuc-guest
+12:48:51.670 -> 06,11,-80,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:48:51.737 -> 07,11,-81,08,3104,28,00,f4:2e:7f:4f:77:c1,airuc-secure
+12:48:51.803 -> 08,11,-85,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:48:51.869 -> END:8 Channels
+12:48:51.869 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -56,"signalToNoiseRatio": 0}
+12:48:51.969 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -54,"signalToNoiseRatio": 0}
+12:48:52.035 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -56,"signalToNoiseRatio": 0}
+12:48:52.135 -> 37 {"macAddress": "f4:2e:7f:4f:d8:80","signalStrength": -85,"signalToNoiseRatio": 0}
+12:48:52.234 -> 46 {"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -84,"signalToNoiseRatio": 0}
+12:48:52.334 -> 55 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -80,"signalToNoiseRatio": 0}
+12:48:52.400 -> 64 {"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -81,"signalToNoiseRatio": 0}
+12:48:52.500 -> 73 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -85,"signalToNoiseRatio": 0}
+12:48:52.599 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -56,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -56,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:d8:80","signalStrength": -85,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -84,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -81,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -85,"signalToNoiseRatio": 0}]}
+12:48:53.329 -> We should be done now 
+12:48:55.286 -> WiFly Hello World
+12:48:55.718 -> 
+IP Address is get ip a192.168.1.1
+12:48:56.215 -> 
+Scan Requested 
+12:48:56.249 -> can
+
+12:48:56.249 -> <4.41> 
+
+12:48:58.836 -> SCAN:Found 10
+12:48:58.869 -> 01,01,-55,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:48:58.935 -> 02,01,-55,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:48:59.002 -> 03,01,-55,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:48:59.035 -> 04,11,-80,08,3104,28,00,f4:2e:7f:4f:77:c1,airuc-secure
+12:48:59.101 -> 05,11,-80,08,3104,28,00,f4:2e:7f:4f:77:c2,eduroam
+12:48:59.168 -> 06,11,-85,00,2104,00,00,f4:2e:7f:4f:39:20,airuc-guest
+12:48:59.234 -> 07,11,-87,08,3104,28,00,f4:2e:7f:4f:39:21,airuc-secure
+12:48:59.300 -> 08,11,-86,00,2104,00,00,f4:2e:7f:4f:28:20,airuc-guest
+12:48:59.367 -> 09,11,-80,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:48:59.433 -> 10,11,-86,08,3104,28,00,f4:2e:7f:4f:28:21,airuc-secure
+12:48:59.499 -> END:10 Channels
+12:48:59.499 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -55,"signalToNoiseRatio": 0}
+12:48:59.599 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -55,"signalToNoiseRatio": 0}
+12:48:59.665 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -55,"signalToNoiseRatio": 0}
+12:48:59.765 -> 37 {"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -80,"signalToNoiseRatio": 0}
+12:48:59.864 -> 46 {"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -80,"signalToNoiseRatio": 0}
+12:48:59.964 -> 55 {"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -85,"signalToNoiseRatio": 0}
+12:49:00.030 -> 64 {"macAddress": "f4:2e:7f:4f:39:21","signalStrength": -87,"signalToNoiseRatio": 0}
+12:49:00.129 -> 73 {"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0}
+12:49:00.229 -> 82 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -80,"signalToNoiseRatio": 0}
+12:49:00.295 -> 91 {"macAddress": "f4:2e:7f:4f:28:21","signalStrength": -86,"signalToNoiseRatio": 0}
+12:49:00.395 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -55,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -55,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -55,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -85,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:21","signalStrength": -87,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -80,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:21","signalStrength": -86,"signalToNoiseRatio": 0}]}
+12:49:01.290 -> We should be done now 
+12:49:03.313 -> WiFly Hello World
+12:49:03.711 -> 
+IP Address is get ip a192.168.1.1
+12:49:04.241 -> 
+Scan Requested 
+12:49:04.275 -> can
+
+12:49:04.275 -> <4.41> 
+
+12:49:06.862 -> SCAN:Found 8
+12:49:06.895 -> 01,01,-59,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:49:06.962 -> 02,01,-58,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:49:06.995 -> 03,01,-59,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:49:07.061 -> 04,06,-87,00,2104,00,00,b8:76:3f:33:d0:e2,HP-Print-e2-LaserJet 300
+12:49:07.127 -> 05,11,-81,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:49:07.194 -> 06,11,-85,00,2104,00,00,f4:2e:7f:4f:39:20,airuc-guest
+12:49:07.260 -> 07,11,-85,08,3104,28,00,f4:2e:7f:4f:39:21,airuc-secure
+12:49:07.326 -> 08,11,-83,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:49:07.393 -> END:8 Channels
+12:49:07.426 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -59,"signalToNoiseRatio": 0}
+12:49:07.492 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -58,"signalToNoiseRatio": 0}
+12:49:07.592 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -59,"signalToNoiseRatio": 0}
+12:49:07.658 -> 37 {"macAddress": "b8:76:3f:33:d0:e2","signalStrength": -87,"signalToNoiseRatio": 0}
+12:49:07.757 -> 46 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -81,"signalToNoiseRatio": 0}
+12:49:07.857 -> 55 {"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -85,"signalToNoiseRatio": 0}
+12:49:07.956 -> 64 {"macAddress": "f4:2e:7f:4f:39:21","signalStrength": -85,"signalToNoiseRatio": 0}
+12:49:08.023 -> 73 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -83,"signalToNoiseRatio": 0}
+12:49:08.122 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -59,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -58,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -59,"signalToNoiseRatio": 0},{"macAddress": "b8:76:3f:33:d0:e2","signalStrength": -87,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -81,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -85,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:21","signalStrength": -85,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -83,"signalToNoiseRatio": 0}]}
+12:49:08.852 -> We should be done now 
+12:49:10.510 -> WiFly Hello World
+12:49:10.908 -> 
+IP Address is get ip a192.168.1.1
+12:49:11.439 -> 
+Scan Requested 
+12:49:11.472 -> can
+
+12:49:11.472 -> <4.41> 
+
+12:49:14.060 -> SCAN:Found 6
+12:49:14.093 -> 01,01,-54,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:49:14.160 -> 02,01,-54,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:49:14.226 -> 03,01,-54,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:49:14.259 -> 04,11,-85,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:49:14.326 -> 05,11,-83,08,3104,28,00,f4:2e:7f:4f:77:c2,eduroam
+12:49:14.392 -> 06,11,-88,00,2104,00,00,f4:2e:7f:4f:39:20,airuc-guest
+12:49:14.458 -> END:6 Channels
+12:49:14.458 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -54,"signalToNoiseRatio": 0}
+12:49:14.558 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -54,"signalToNoiseRatio": 0}
+12:49:14.624 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -54,"signalToNoiseRatio": 0}
+12:49:14.724 -> 37 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -85,"signalToNoiseRatio": 0}
+12:49:14.823 -> 46 {"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -83,"signalToNoiseRatio": 0}
+12:49:14.923 -> 55 {"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -88,"signalToNoiseRatio": 0}
+12:49:14.989 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -85,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -83,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -88,"signalToNoiseRatio": 0}]}
+12:49:15.553 -> We should be done now 
+12:49:17.809 -> WiFly Hello World
+12:49:18.207 -> 
+IP Address is get ip a192.168.1.1
+12:49:18.738 -> 
+Scan Requested 
+12:49:18.771 -> can
+
+12:49:18.771 -> <4.41> 
+
+12:49:21.359 -> SCAN:Found 7
+12:49:21.392 -> 01,01,-54,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:49:21.458 -> 02,01,-54,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:49:21.525 -> 03,01,-55,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:49:21.558 -> 04,11,-86,00,2104,00,00,f4:2e:7f:4f:28:20,airuc-guest
+12:49:21.624 -> 05,11,-79,00,2104,00,00,f4:2e:7f:4f:39:20,airuc-guest
+12:49:21.691 -> 06,11,-78,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:49:21.757 -> 07,11,-82,08,3104,28,00,f4:2e:7f:4f:77:c1,airuc-secure
+12:49:21.823 -> END:7 Channels
+12:49:21.823 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -54,"signalToNoiseRatio": 0}
+12:49:21.923 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -54,"signalToNoiseRatio": 0}
+12:49:21.989 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -55,"signalToNoiseRatio": 0}
+12:49:22.089 -> 37 {"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0}
+12:49:22.188 -> 46 {"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -79,"signalToNoiseRatio": 0}
+12:49:22.288 -> 55 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -78,"signalToNoiseRatio": 0}
+12:49:22.354 -> 64 {"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -82,"signalToNoiseRatio": 0}
+12:49:22.454 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -54,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -55,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -79,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -78,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -82,"signalToNoiseRatio": 0}]}
+12:49:23.084 -> We should be done now 
+12:49:24.510 -> WiFly Hello World
+12:49:24.908 -> 
+IP Address is get ip a192.168.1.1
+12:49:25.439 -> 
+Scan Requested 
+12:49:25.472 -> can
+
+12:49:25.472 -> <4.41> 
+
+12:49:28.060 -> SCAN:Found 7
+12:49:28.093 -> 01,01,-45,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:49:28.159 -> 02,01,-46,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:49:28.192 -> 03,01,-45,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:49:28.259 -> 04,11,-84,00,2104,00,00,f4:2e:7f:4f:77:c0,airuc-guest
+12:49:28.325 -> 05,11,-85,08,3104,28,00,f4:2e:7f:4f:77:c1,airuc-secure
+12:49:28.391 -> 06,11,-84,08,3104,28,00,f4:2e:7f:4f:77:c2,eduroam
+12:49:28.458 -> 07,11,-80,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:49:28.524 -> END:7 Channels
+12:49:28.524 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -45,"signalToNoiseRatio": 0}
+12:49:28.624 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -46,"signalToNoiseRatio": 0}
+12:49:28.690 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -45,"signalToNoiseRatio": 0}
+12:49:28.789 -> 37 {"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -84,"signalToNoiseRatio": 0}
+12:49:28.889 -> 46 {"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -85,"signalToNoiseRatio": 0}
+12:49:28.955 -> 55 {"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -84,"signalToNoiseRatio": 0}
+12:49:29.055 -> 64 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -80,"signalToNoiseRatio": 0}
+12:49:29.154 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -45,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -46,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -45,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c0","signalStrength": -84,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c1","signalStrength": -85,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:77:c2","signalStrength": -84,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -80,"signalToNoiseRatio": 0}]}
+12:49:29.785 -> We should be done now 
+12:49:31.410 -> WiFly Hello World
+12:49:31.808 -> 
+IP Address is get ip a192.168.1.1
+12:49:32.339 -> 
+Scan Requested 
+12:49:32.373 -> can
+
+12:49:32.373 -> <4.41> 
+
+12:49:34.961 -> SCAN:Found 4
+12:49:34.994 -> 01,01,-49,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:49:35.060 -> 02,01,-49,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:49:35.126 -> 03,01,-49,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:49:35.159 -> 04,11,-83,00,2104,00,00,f4:2e:7f:4f:39:20,airuc-guest
+12:49:35.225 -> END:4 Channels
+12:49:35.225 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -49,"signalToNoiseRatio": 0}
+12:49:35.325 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -49,"signalToNoiseRatio": 0}
+12:49:35.424 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -49,"signalToNoiseRatio": 0}
+12:49:35.524 -> 37 {"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -83,"signalToNoiseRatio": 0}
+12:49:35.590 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:20","signalStrength": -83,"signalToNoiseRatio": 0}]}
+12:49:35.988 -> We should be done now 
+12:49:37.613 -> WiFly Hello World
+12:49:38.011 -> 
+IP Address is get ip a192.168.1.1
+12:49:38.542 -> 
+Scan Requested 
+12:49:38.575 -> can
+
+12:49:38.575 -> <4.41> 
+
+12:49:41.160 -> SCAN:Found 5
+12:49:41.194 -> 01,01,-50,00,2104,00,00,f4:2e:7f:4f:16:c0,airuc-guest
+12:49:41.260 -> 02,01,-49,08,3104,28,00,f4:2e:7f:4f:16:c1,airuc-secure
+12:49:41.326 -> 03,01,-49,08,3104,28,00,f4:2e:7f:4f:16:c2,eduroam
+12:49:41.360 -> 04,11,-86,00,2104,00,00,f4:2e:7f:4f:28:20,airuc-guest
+12:49:41.426 -> 05,11,-84,08,3104,28,00,f4:2e:7f:4f:39:22,eduroam
+12:49:41.492 -> END:5 Channels
+12:49:41.525 -> 
+10 {"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -50,"signalToNoiseRatio": 0}
+12:49:41.592 -> 19 {"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -49,"signalToNoiseRatio": 0}
+12:49:41.691 -> 28 {"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -49,"signalToNoiseRatio": 0}
+12:49:41.757 -> 37 {"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0}
+12:49:41.890 -> 46 {"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -84,"signalToNoiseRatio": 0}
+12:49:41.956 -> {"considerIp": "false", "wifiAccessPoints": [{"macAddress": "f4:2e:7f:4f:16:c0","signalStrength": -50,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c1","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:16:c2","signalStrength": -49,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:28:20","signalStrength": -86,"signalToNoiseRatio": 0},{"macAddress": "f4:2e:7f:4f:39:22","signalStrength": -84,"signalToNoiseRatio": 0}]}
+12:49:42.421 -> We should be done now 
+
