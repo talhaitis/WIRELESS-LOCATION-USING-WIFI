@@ -1,0 +1,45 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+*.cmake
+
+# IDE and editor-specific files (if applicable)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled object files and executables
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.dSYM/
+
+# Dependency directories
+# If you're using a package manager or external libraries
+# (Optional, depending on your setup)
+third_party/
+
+# Temporary and backup files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# C++ compiler cache (some IDEs and tools might generate them)
+*.gch
+*.pch
