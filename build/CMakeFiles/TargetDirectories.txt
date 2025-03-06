@@ -1,3 +1,0 @@
-/home/talha/Documents/ENGO 685/WirelessLocation with WIFI/build/CMakeFiles/wifiLocation.dir
-/home/talha/Documents/ENGO 685/WirelessLocation with WIFI/build/CMakeFiles/edit_cache.dir
-/home/talha/Documents/ENGO 685/WirelessLocation with WIFI/build/CMakeFiles/rebuild_cache.dir

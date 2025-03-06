@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/wifiLocation.dir/src/PostProcessing.cpp.o CMakeFiles/wifiLocation.dir/src/ScanParser.cpp.o CMakeFiles/wifiLocation.dir/src/main.cpp.o -o wifiLocation 
